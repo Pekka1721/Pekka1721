@@ -7,9 +7,10 @@ Graduated in  **2021** with  a Degree in Electrical & Electronics Engineering
 
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning DS&A and DevOps
+- 🌱 I’m currently learning DS&A and Web Devlopment
 - 👯 I’m looking to collaborate on OpenSource and DevOps
 - 🤔 I’m looking for help with Docker 
 - 💬 Ask me about Java
+- 💼 Looking for Job
 - 📫 How to reach me: pekkarange1721@gmail.com twitter : @somuontwt
 
