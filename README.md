@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **rajender.reddybellanagari@gmail.com**
 
-- 📄 Know about my experiences [My github is my resume](My github is my resume)
+- 📄 Know about my experiences My github is my resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
