@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [30 Days of Html and Css](https://github.com/Pekka1721/30DaysofHtmlandCss)
 
-- 🌱 I’m currently learning **MEAN Stack Developemet**
+- 🌱 I’m currently learning **MERN Stack Developemet**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
